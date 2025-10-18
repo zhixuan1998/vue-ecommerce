@@ -5,6 +5,7 @@ export const messages = {
         passwordFormat: () => 'Password must be 8 to 20 characters long, with at least one uppercase letter, one number, and one symbol.'
     },
     title: {
+        testCommit: () => 'test commit',
         login: () => 'Log In',
         signup: () => 'Sign Up',
         categories: () => 'Categories',
