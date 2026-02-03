@@ -5,7 +5,7 @@
     padding: 10px func.responsive-scaling();
 }
 
-@mixin multiline-ellipsis($line-clamp: 3) {
+@mixin multiline-ellipsis($line-clamp: 2) {
     display: -webkit-box;
     line-clamp: $line-clamp;
     -webkit-line-clamp: $line-clamp;
